@@ -1,15 +1,22 @@
-# Logs Simulator
+# Logs Simulator v1.0.0
 
 [README English](README.md)
 
 Simuler des logs dans votre terminal
 
+## Prérequis:
+
+- [Node.js](https://nodejs.org/fr) (v18 recommendé mais v16+ devrait fonctionner)
+- [Git](https://git-scm.com/)
+- Un terminal
+
 ## Installation:
 
-Cloner le repo:
+Cloner le repo et aller dedans:
 
 ```sh
 git clone https://github.com/Mimexe/logsimulator.git
+cd logsimulator
 ```
 
 ## Utilisation

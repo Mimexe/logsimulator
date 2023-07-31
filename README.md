@@ -4,12 +4,19 @@
 
 Simulate logs in your terminal
 
+## Requirements:
+
+- [Node.js](https://nodejs.org/en) (v18 recommended but v16+ should work)
+- [Git](https://git-scm.com/)
+- A terminal
+
 ## Installation:
 
-Clone the repo:
+Clone the repo and go into it:
 
 ```sh
 git clone https://github.com/Mimexe/logsimulator.git
+cd logsimulator
 ```
 
 ## Usage
