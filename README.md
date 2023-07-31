@@ -1,5 +1,7 @@
 # Logs Simulator
 
+[README Français](README-fr.md)
+
 Simulate logs in your terminal
 
 ## Installation:
@@ -17,6 +19,8 @@ First of all, run the server:
 ```sh
 node index.js
 ```
+
+Or run the run.bat (for windows) or run.sh (for linux)
 
 Then, the client will automatically start and watch for the `logs.json` file change to update.  
 In the server, you can add logs by simply type in the terminal and hit enter.  
@@ -58,4 +62,4 @@ Or you can create one manually with this content:
 
 ## License
 
-MIT License
+[License MIT](LICENSE)
