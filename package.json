@@ -6,5 +6,15 @@
   "author": "Mime (https://github.com/Mimexe)",
   "repository": "Mimexe/logsimulator",
   "license": "MIT",
-  "type":"module"
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "start:noclient": "node index.js --no-client",
+    "client": "node index.js client",
+    "start:ws": "node index.js websocket"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "socket.io-client": "^4.7.5"
+  }
 }
