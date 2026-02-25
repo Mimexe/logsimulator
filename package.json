@@ -15,6 +15,6 @@
   },
   "dependencies": {
     "prompt-sync": "^4.2.0",
-    "socket.io-client": "^4.7.5"
+    "socket.io-client": "^4.8.3"
   }
 }
